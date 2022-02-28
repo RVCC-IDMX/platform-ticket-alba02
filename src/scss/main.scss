@@ -1,3 +1,8 @@
+@use './components/article';
+@use './components/header';
+@use './layout/body';
+
+
 $color: deeppink;
 $bg: rgb(255, 245, 250);
 
@@ -5,3 +10,6 @@ body {
   background: $bg;
   color: $color;
 }
+
+
+
