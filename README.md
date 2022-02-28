@@ -11,7 +11,7 @@ Platform Ticket <img width="1249" alt="platformticket" src="https://user-images.
  1. Typewriter <https://www.1001freefonts.com/typewriter.font>
  2. Bodoni Roman <https://www.1001freefonts.com/bodoni.font>
  3. Lora Bold <https://www.dafontfree.net/lora-bold/f92159.htm>
- 4. Montserrat-Regular <001freefonts.com/montserrat.font>
+ 4. Montserrat-Regular <https://www.1001freefonts.com/montserrat.font>
  5. California Paradise <https://www.1001freefonts.com/california-paradise.font>
  6. Bajigoor <https://www.1001freefonts.com/bajigoor-sw.font>
  7. IM Fell French <https://www.1001freefonts.com/im-fell-french-canon-sc.font>
