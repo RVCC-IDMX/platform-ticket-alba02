@@ -1,34 +1,16 @@
-# Starter Page Builder
+# Platform Ticket
+This project's idea was to recreate a platform ticket on a website based off an old picture and with the help of another ticket similar to the platform ticket. This project makes the use of columns and using BEM methodology.
 
-## How to use this repo
+## The original 1895 platform ticket
+![Platform Ticket] (platformticket.png)
+### Link to Inspiration
+ <https://codepen.io/oliviale/pen/MZZYyO>
 
-1. Clone the repo
-1. In your terminal, run
-   ```bash
-   npm install
-   ```
-1. In your terminal, run the parcel watcher
-   ```bash
-   npm run dev
-   ```
-
-### The Parcel dev script
-
-The Parcel dev script will watch your files for changes automatically and will live update your browser.
-
-1. In your browser, go to `http://localhost:1234/`
-1. ParcelJS will reload the page when changes are made
-
-### How to stop a watcher
-
-When you want to stop the watcher, click in the terminal and press ctrl-c
-
-## When you are ready to go to production
-
-1. In your terminal, run
-
-   ```bash
-   npm run build
-   ```
-
-1. The final version of your site will be in the `dist` folder.
+ #### Font List
+ 1. Typewriter <https://www.1001freefonts.com/typewriter.font>
+ 2. Bodoni Roman <https://www.1001freefonts.com/bodoni.font>
+ 3. Lora Bold <https://www.dafontfree.net/lora-bold/f92159.htm>
+ 4. Montserrat-Regular <001freefonts.com/montserrat.font>
+ 5. California Paradise <https://www.1001freefonts.com/california-paradise.font>
+ 6. Bajigoor <https://www.1001freefonts.com/bajigoor-sw.font>
+ 7. IM Fell French <https://www.1001freefonts.com/im-fell-french-canon-sc.font>
